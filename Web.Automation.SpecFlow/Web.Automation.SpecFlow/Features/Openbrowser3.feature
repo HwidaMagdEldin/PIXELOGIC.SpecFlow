@@ -20,5 +20,3 @@ Given I am on Home page
 	| Mohamed     | Ahmed     | 0100002589    | test@tes.com |          | 123456           | The Password field is required. |
 	| Mohamed     | Ahmed     | 0100002589    | test@tes.com | 123456   |                  | The Password field is required. |
 	| Mohamed     | Ahmed     | 0100002589    | test@tes.com | 123456   | 123456            | Nothing Booked Yet              |
-
-
